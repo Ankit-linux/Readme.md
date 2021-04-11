@@ -16,6 +16,6 @@
 |`1`|**Best liked Readme.md on github**                    |<a href="https://github.com/Ankit-Linux/test/blob/6f64eed68c0938920324a7dda606499c9f3a8a2a/Links.md"><img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-139370.gif" border="0" /></a> [Best Readme MarkDown file](https://github.com/anuraghazra/github-readme-stats.git) |                     |
 |`2`|**Status of self Created Readme.md**                  |      (Good)    ★★★★☆               |
 |`3`|**Improvements to be made on Self Created Readme.md** | Need to be more specific towards the content|
-|`4`|**Description of Self Analysis**                      | I have successfully completed the Assignment with the help of internet or youtube .  This is my first assignment for GitHub, so there was a little bit problem in completing this assignment, but I got to learn a lot from it.|
-|`5`|**Reported Completion on Time to Indu Ma’am on mail** |    Sorry mam today i am submit my assignment late because first i learn github markdown code then complete my assignment               |
+|`4`|**Description of Self Analysis**                      | I have successfully completed the Assignment with the help of internet or youtube .  i have learn so many new things this assignment.|
+|`5`|**Reported Completion on Time to Indu Ma’am on mail** |    ------------------------------------------               |
                                     
