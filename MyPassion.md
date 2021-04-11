@@ -3,3 +3,8 @@ My **Passion** in my life is to learn and work on new technologies like cloud co
 
 # My Hobby-
 My **Hobby** is to watching cricket and Doing Help to other people.
+
+### About me🧑:
+I am Computer Engineering student and a Learn  Java by DUCAT .<br/>
+I have doing Internship as a Linux & cloudcomputing  as well as learn web devlopment.<br/>
+I am interested in learning java and Linux would 💖 to grow my knowledge in these Technologies.
