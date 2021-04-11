@@ -3,8 +3,7 @@
 <img alt="Electrician" src="https://media.giphy.com/media/pN4fg9dzw6BeWYwo67/giphy.gif"/>
 </p>
 </br>
-<a href="https://7labs.io/a/whatsapp-direct/#dial_code=+91&phone=9045153795"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> | 
-
+<a href="https://7labs.io/a/whatsapp-direct/#dial_code=+91&phone=9045153795"> |<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>|<a href="https://maneeshelectricals.business.site/?utm_source=gmb&utm_medium=referral"> | <img alt="QR code" src="https://img.shields.io/badge/QR%20code-25D366?style=for-the-badge&logo=QRcode&logoColor=red"</a> |
 
 |  **SN**|**CLASSIFICATION_OF_INCIDENT**| **DETAILS**  |
 | :---: | :------: | :-----: |
