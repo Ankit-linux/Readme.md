@@ -5,7 +5,7 @@
 </br>
 <p align=center>
 <a href="https://7labs.io/a/whatsapp-direct/#dial_code=+91&phone=9045153795"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> |<a href="https://maneeshelectricals.business.site/?utm_source=gmb&utm_medium=referral"> <img alt="About" src="https://img.shields.io/badge/Services%20-%23500000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a> |<a href="https://www.google.com/maps/dir//MANEESH+ELECTRICALS/data=!4m8!4m7!1m0!1m5!1m1!1s0x39736db067eaf013:0xfd529002d126d241!2m2!1d77.6680389!2d27.510023699999998"> <img alt="" src="https://img.shields.io/badge/Find US%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
-  </p>
+  </p>|
 |  **SN**|**CLASSIFICATION_OF_INCIDENT**| **DETAILS**  |
 | :---: | :------: | :-----: |
 |`1`|**Incident Date**                  |               02/03/2021                             |
