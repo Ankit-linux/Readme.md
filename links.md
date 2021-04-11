@@ -1,7 +1,7 @@
 ## BEST README.md LINKS:
 _____
 ```diff
-+I have followed below three links of Readme.md to update my all two assignments. Currently i have used only those which can be suitable for updating the assignment.
++I have followed below two links of Readme.md to update my all two assignments. Currently i have used only those which can be suitable for updating the assignment.
 ```
 ______
 
